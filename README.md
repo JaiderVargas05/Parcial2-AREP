@@ -32,7 +32,11 @@ Funcionamiento con instancia principal apagada
 
 <img width="527" height="246" alt="image" src="https://github.com/user-attachments/assets/e9f334ad-411d-4a6c-9e9e-73034d9ec2a8" />
 
+Para correr los servicios se corre los siguientes comandos
 
+git clone https://github.com/JaiderVargas05/Parcial2-AREP.git
+cd Parcial2-AREP/{servicio}
+sudo java -jar target/{servicio}-0.0.1-SNAPSHOT.jar
 
 
 
