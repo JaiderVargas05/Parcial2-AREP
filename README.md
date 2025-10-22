@@ -35,7 +35,9 @@ Funcionamiento con instancia principal apagada
 Para correr los servicios se corre los siguientes comandos
 
 git clone https://github.com/JaiderVargas05/Parcial2-AREP.git
+
 cd Parcial2-AREP/{servicio}
+
 sudo java -jar target/{servicio}-0.0.1-SNAPSHOT.jar
 
 
