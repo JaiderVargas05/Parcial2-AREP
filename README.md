@@ -26,6 +26,14 @@ Servicio desplegado
 
 <img width="1122" height="439" alt="image" src="https://github.com/user-attachments/assets/f6189dde-1840-4fcc-8a57-8afe7923437b" />
 
+Funcionamiento con instancia principal apagada
+
+<img width="1636" height="125" alt="image" src="https://github.com/user-attachments/assets/c42c26c3-257b-4d90-8a17-ae3eeffe002e" />
+
+<img width="527" height="246" alt="image" src="https://github.com/user-attachments/assets/e9f334ad-411d-4a6c-9e9e-73034d9ec2a8" />
+
+
+
 
 
 
